@@ -130,6 +130,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy, PostgreSQL, Tableau Publ
 ## Author
 
 **Atharva Katkar**
-[GitHub](https://github.com/atharvakatkar) | [LinkedIn](#)
+[GitHub](https://github.com/atharvakatkar)
 
-*Data Science Student — University of Technology Sydney*
+*Data Science Student — Macquarie University*
