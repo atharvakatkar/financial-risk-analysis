@@ -1,0 +1,10 @@
+cat > requirements.txt << 'EOF'
+pandas
+numpy
+matplotlib
+seaborn
+sqlalchemy
+psycopg2-binary
+jupyter
+ipykernel
+EOF
